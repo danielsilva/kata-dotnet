@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{D996CF33-1C64-496C-8BF8-975D78C7A243}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MasterCrupt/AcceptanceTest.cs">
+    <Files>
+      <File FileName="MasterCrupt/AcceptanceTest.cs" Line="5" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MikadoMethod" expanded="True">
+            <Node name="MasterCrupt" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Packages" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MasterCrupt PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
