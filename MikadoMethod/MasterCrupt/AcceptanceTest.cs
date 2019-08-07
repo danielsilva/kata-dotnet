@@ -2,14 +2,14 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
 
 namespace MasterCrupt
 {
-    [TestClass]
+    [TestFixture]
     public class AcceptanceTest
     {
-        [TestMethod]
+        [Test]
         public void TestSecret()
         {
             UI ui = new UI();
